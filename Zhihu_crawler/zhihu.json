@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+  },
+"config": {
+    "interval_between_board": 600,
+    "interval_between_question": 2
+  },
+  "mysql": {
+    "host": "59.66.131.240",
+    "user": "lts114514",
+    "password": "114514",
+    "database": "zhihu",
+    "charset": "utf8mb4",
+    "port": 45122
+  }
+}
